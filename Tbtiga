@@ -1,0 +1,13 @@
+<link href="https://www.tonton.com.my/" rel="icon" type="image/png"></link>
+<script type="text/javascript">
+window.location = "https://www.tonton.com.my/"
+</script>
+</head>
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"F/ut5qlPUnGmp8VjdL9tjg", "kid":"UmLL6+rWT0KqgxfjyxMQbA" } ], "type":"temporary" }
+#EXTINF:-1 group-logo="" group-title="Malay" tvg-logo="https://iili.io/1NKFDv.png" tvg-id="TV1",TV1
+https://linear08-playback.sooka.my/CH3/masterCH3.mpd
